@@ -60,6 +60,17 @@
     color: black;
   }
 
+  /* ligne */
+  .vector{
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 110px;
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
  
   h1{
     position: absolute;
