@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap%27');
+
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lobster', normal;
+}
+
+/* background color navbar */
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+
+/* Style des liens de la navbar */
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+
+}
+.reseaux{
+    float: right;
+    justify-content: flex-end;
+    position: absolute;
+
+    left: 1100px;
+    top: 15px;
+}
+
+.logo{
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    left: 80px;
+    
+
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+/* couleur au passage de la souris*/
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+ 
+  h1{
+    position: absolute;
+    width: 777px;
+    height: 77px;
+    left: 80px;
+    top: 190px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    letter-spacing: -0.04em;
+    
+    color: #000000;
+    
+    
+  }
