@@ -292,3 +292,73 @@
     color: rgba(0, 0, 0, 0.6);
 
   }
+
+  #plat{
+    position: absolute;
+    width: 915.21px;
+    height: 600px;
+    left: 45px;
+    top: 429px;
+    border-radius: 55px;
+ 
+
+
+
+  }
+
+  .header{
+    display: flex;
+    text-align: center;
+  }
+
+
+  .nutrition{
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    left: 950px;
+    top: 429px;
+
+    background: #E7FAFE;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+  }
+
+  .nutrition h2{
+    position: absolute;
+    width: 223px;
+    height: 29px;
+    left: 92px;
+    top: 11px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    /* identical to box height */
+    letter-spacing: -0.04em;
+   
+  }
+
+  .nutrition p{
+   display: flex;
+  }
+
+#textnutrition{
+  position: absolute;
+  width: 1270px;
+  height: 80px;
+  left: 80px;
+  top: 1109px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
