@@ -362,3 +362,62 @@
   font-size: 16px;
   line-height: 28px;
 }
+
+.ingredient{
+  position: absolute;
+}
+
+.ingredient h2{
+  position: absolute;
+width: 184px;
+height: 44px;
+left: 80px;
+top: 1273px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+/* identical to box height */
+letter-spacing: -0.04em;
+
+
+}
+
+.ingredient h3 {
+  position: absolute;
+  width: 144px;
+  height: 29px;
+  left: 80px;
+  top: 1365px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  
+  /* identical to box height */
+  letter-spacing: -0.04em;
+}
+
+.liste{
+  position: absolute;
+width: 213px;
+height: 18px;
+left: 78px;
+top: 1427px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+letter-spacing: -0.02em;
+
+
+}
