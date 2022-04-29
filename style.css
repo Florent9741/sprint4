@@ -60,24 +60,13 @@
     color: black;
   }
 
-  /* ligne */
-  .vector{
-    position: absolute;
-    width: 1440px;
-    height: 0px;
-    left: 0px;
-    top: 110px;
-
-    border: 1px solid rgba(0, 0, 0, 0.1);
-  }
-
  
   h1{
     position: absolute;
     width: 777px;
     height: 77px;
     left: 80px;
-    top: 190px;
+    top: 150px;
     
     font-family: 'Inter';
     font-style: normal;
@@ -89,4 +78,217 @@
     color: #000000;
     
     
+  }
+
+  .sous-titre1 h2{
+    position: absolute;
+    width: 86px;
+    height: 19px;
+    left: 146px;
+    top: 318px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+  }
+
+  .sous-titre1 h4{
+    position: absolute;
+    width: 97px;
+    height: 17px;
+    left: 146px;
+    top: 345px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  #avatar{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 325px;
+
+  }
+  .sous-titre1 #ligne{
+    position: absolute;
+    width: 0px;
+    height: 50px;
+    left: 301px;
+    top: 315px;
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+
+
+  #minuteur{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 336px;
+    top: 331px;
+  }
+
+  .sous-titre2 h2{
+    position: absolute;
+    width: 73px;
+    height: 15px;
+    left: 373px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+
+    color: #000000;
+      }
+
+  .sous-titre2 h4{
+    position: absolute;
+    width: 71px;
+    height: 17px;
+    left: 373px;
+    top: 343px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: rgba(0, 0, 0, 0.6);
+
+
+  }    
+
+  .sous-titre2 #ligne{
+
+    position: absolute;
+    width: 0px;
+    height: 50px;
+    left: 478px;
+    top: 315px;
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  #minuteur2{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 513px;
+    top: 331px;
+
+  }
+
+  .sous-titre3 h2{
+    position: absolute;
+    width: 78px;
+    height: 15px;
+    left: 550px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+
+    color: #000000;
+  }
+
+  .sous-titre3 h4{
+    position: absolute;
+    width: 71px;
+    height: 17px;
+    left: 550px;
+    top: 343px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .sous-titre3 #ligne{
+    position: absolute;
+    width: 0px;
+    height: 50px;
+    left: 660px;
+    top: 315px;
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  #fourchette{
+    position: absolute;
+    width: 8.25px;
+    height: 19.5px;
+    left: 695.75px;
+    top: 330.25px;
+
+    
+  }
+
+  #couteau{
+    position: absolute;
+    width: 6.75px;
+    height: 19.5px;
+    left: 705.13px;
+    top: 330.25px;
+
+  }
+
+  .sous-titre4 h4{
+    position: absolute;
+    width: 53px;
+    height: 17px;
+    left: 726px;
+    top: 331px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+
+    color: rgba(0, 0, 0, 0.6);
+
   }
